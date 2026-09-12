@@ -1,0 +1,840 @@
+{
+  "CAM-GATE-01": {
+    "name": "PVG's College Entrance Node",
+    "total_vehicles": 228,
+    "vehicle_classes": {
+      "Vehicle": 228
+    },
+    "plates": {
+      "MHR1CF131": {
+        "count": 1,
+        "max_conf": 0.5396,
+        "raw_text": "MHR1CF131",
+        "first_time": "18:02:00",
+        "frame": 0,
+        "bbox": [
+          3181,
+          831,
+          3533,
+          929
+        ]
+      },
+      "HR13J57": {
+        "count": 1,
+        "max_conf": 0.663,
+        "raw_text": "HR13J57",
+        "first_time": "18:02:01",
+        "frame": 87,
+        "bbox": [
+          2163,
+          1703,
+          2553,
+          2124
+        ]
+      },
+      "HR33J97": {
+        "count": 1,
+        "max_conf": 0.5926,
+        "raw_text": "HR33J97",
+        "first_time": "18:02:01",
+        "frame": 116,
+        "bbox": [
+          2156,
+          1655,
+          2558,
+          2072
+        ]
+      },
+      "HR13J533": {
+        "count": 1,
+        "max_conf": 0.5182,
+        "raw_text": "HR13J533",
+        "first_time": "18:02:02",
+        "frame": 145,
+        "bbox": [
+          2152,
+          1630,
+          2545,
+          2055
+        ]
+      },
+      "HR13J51": {
+        "count": 1,
+        "max_conf": 0.4838,
+        "raw_text": "HR13J51",
+        "first_time": "18:02:02",
+        "frame": 174,
+        "bbox": [
+          2155,
+          1724,
+          2551,
+          2150
+        ]
+      },
+      "HR03SH51": {
+        "count": 1,
+        "max_conf": 0.396,
+        "raw_text": "HR03SH51",
+        "first_time": "18:02:03",
+        "frame": 203,
+        "bbox": [
+          2205,
+          1746,
+          2639,
+          2160
+        ]
+      },
+      "HR12H51": {
+        "count": 1,
+        "max_conf": 0.5372,
+        "raw_text": "HR12H51",
+        "first_time": "18:02:03",
+        "frame": 232,
+        "bbox": [
+          2252,
+          1776,
+          2700,
+          2160
+        ]
+      },
+      "HR12391": {
+        "count": 1,
+        "max_conf": 0.4923,
+        "raw_text": "HR12391",
+        "first_time": "18:02:03",
+        "frame": 232,
+        "bbox": [
+          2247,
+          1777,
+          3089,
+          2160
+        ]
+      },
+      "HR12JJH51": {
+        "count": 1,
+        "max_conf": 0.4719,
+        "raw_text": "HR12JJH51",
+        "first_time": "18:02:04",
+        "frame": 261,
+        "bbox": [
+          2279,
+          1762,
+          2672,
+          2160
+        ]
+      },
+      "UNB1": {
+        "count": 1,
+        "max_conf": 0.3141,
+        "raw_text": "UNB1",
+        "first_time": "18:02:04",
+        "frame": 261,
+        "bbox": [
+          2074,
+          572,
+          2229,
+          638
+        ]
+      },
+      "HR239J51": {
+        "count": 1,
+        "max_conf": 0.467,
+        "raw_text": "HR239J51",
+        "first_time": "18:02:04",
+        "frame": 290,
+        "bbox": [
+          2290,
+          1769,
+          2683,
+          2160
+        ]
+      },
+      "UNREADBLE": {
+        "count": 1,
+        "max_conf": 0.5229,
+        "raw_text": "UNREADBLE",
+        "first_time": "18:02:04",
+        "frame": 290,
+        "bbox": [
+          2660,
+          908,
+          3183,
+          1029
+        ]
+      },
+      "P17L7": {
+        "count": 1,
+        "max_conf": 0.3752,
+        "raw_text": "P17L7",
+        "first_time": "18:02:05",
+        "frame": 319,
+        "bbox": [
+          1772,
+          770,
+          2099,
+          856
+        ]
+      },
+      "HR13J31": {
+        "count": 1,
+        "max_conf": 0.4899,
+        "raw_text": "HR13J31",
+        "first_time": "18:02:05",
+        "frame": 348,
+        "bbox": [
+          2282,
+          1707,
+          2652,
+          2112
+        ]
+      },
+      "MH11B1": {
+        "count": 1,
+        "max_conf": 0.2853,
+        "raw_text": "MH11B1",
+        "first_time": "18:02:06",
+        "frame": 377,
+        "bbox": [
+          3673,
+          825,
+          3839,
+          935
+        ]
+      },
+      "MH23JH51": {
+        "count": 1,
+        "max_conf": 0.5478,
+        "raw_text": "MH23JH51",
+        "first_time": "18:02:06",
+        "frame": 377,
+        "bbox": [
+          2284,
+          1725,
+          2658,
+          2115
+        ]
+      },
+      "H0231": {
+        "count": 1,
+        "max_conf": 0.6646,
+        "raw_text": "H0231",
+        "first_time": "18:02:06",
+        "frame": 406,
+        "bbox": [
+          2146,
+          1662,
+          2531,
+          2045
+        ]
+      },
+      "MH080D00": {
+        "count": 1,
+        "max_conf": 0.6372,
+        "raw_text": "MH080D00",
+        "first_time": "18:02:06",
+        "frame": 406,
+        "bbox": [
+          2745,
+          709,
+          3016,
+          809
+        ]
+      },
+      "MH12JJ7": {
+        "count": 2,
+        "max_conf": 0.9971,
+        "raw_text": "MH12JJ7",
+        "first_time": "18:02:07",
+        "frame": 435,
+        "bbox": [
+          1772,
+          1538,
+          2157,
+          1833
+        ]
+      },
+      "MH12JJ97": {
+        "count": 4,
+        "max_conf": 0.9964,
+        "raw_text": "MH12JJ97",
+        "first_time": "18:02:07",
+        "frame": 464,
+        "bbox": [
+          1356,
+          1477,
+          1697,
+          1705
+        ]
+      },
+      "MH12JJJ9J7": {
+        "count": 1,
+        "max_conf": 0.8784,
+        "raw_text": "MH12JJJ9J7",
+        "first_time": "18:02:08",
+        "frame": 493,
+        "bbox": [
+          1327,
+          1441,
+          1616,
+          1606
+        ]
+      },
+      "KA51": {
+        "count": 1,
+        "max_conf": 0.2558,
+        "raw_text": "KA51",
+        "first_time": "18:02:11",
+        "frame": 667,
+        "bbox": [
+          0,
+          1534,
+          80,
+          1744
+        ]
+      },
+      "MH211": {
+        "count": 1,
+        "max_conf": 0.7225,
+        "raw_text": "MH211",
+        "first_time": "18:02:11",
+        "frame": 696,
+        "bbox": [
+          0,
+          1526,
+          190,
+          1751
+        ]
+      },
+      "MH21J1": {
+        "count": 1,
+        "max_conf": 0.6273,
+        "raw_text": "MH21J1",
+        "first_time": "18:02:12",
+        "frame": 725,
+        "bbox": [
+          0,
+          1503,
+          218,
+          1718
+        ]
+      },
+      "MH21JH1": {
+        "count": 1,
+        "max_conf": 0.5212,
+        "raw_text": "MH21JH1",
+        "first_time": "18:02:12",
+        "frame": 754,
+        "bbox": [
+          0,
+          1490,
+          188,
+          1700
+        ]
+      },
+      "MH12SUM": {
+        "count": 1,
+        "max_conf": 0.9434,
+        "raw_text": "MH12SUM",
+        "first_time": "18:02:13",
+        "frame": 812,
+        "bbox": [
+          3539,
+          1568,
+          3840,
+          1745
+        ]
+      }
+    }
+  },
+  "CAM 01": {
+    "name": "Shiv Darshan Chowk",
+    "total_vehicles": 235,
+    "vehicle_classes": {
+      "Vehicle": 235
+    },
+    "plates": {
+      "MH12JJJ97": {
+        "count": 5,
+        "max_conf": 0.9367,
+        "raw_text": "MH12JJJ97",
+        "first_time": "18:18:00",
+        "frame": 0,
+        "bbox": [
+          1979,
+          1185,
+          2372,
+          1426
+        ]
+      },
+      "MH12JJ97": {
+        "count": 6,
+        "max_conf": 0.9972,
+        "raw_text": "MH12JJ97",
+        "first_time": "18:18:00",
+        "frame": 29,
+        "bbox": [
+          1989,
+          1186,
+          2357,
+          1398
+        ]
+      },
+      "MH12JJJH97": {
+        "count": 1,
+        "max_conf": 0.8685,
+        "raw_text": "MH12JJJH97",
+        "first_time": "18:18:01",
+        "frame": 87,
+        "bbox": [
+          2033,
+          1220,
+          2397,
+          1425
+        ]
+      },
+      "MH14C632": {
+        "count": 1,
+        "max_conf": 0.6282,
+        "raw_text": "MH14C632",
+        "first_time": "18:18:01",
+        "frame": 87,
+        "bbox": [
+          3358,
+          2004,
+          3807,
+          2160
+        ]
+      },
+      "MH12J917": {
+        "count": 1,
+        "max_conf": 0.9015,
+        "raw_text": "MH12J917",
+        "first_time": "18:18:02",
+        "frame": 174,
+        "bbox": [
+          1854,
+          1137,
+          2218,
+          1354
+        ]
+      },
+      "KA61": {
+        "count": 1,
+        "max_conf": 0.2139,
+        "raw_text": "KA61",
+        "first_time": "18:18:05",
+        "frame": 348,
+        "bbox": [
+          2390,
+          0,
+          2703,
+          293
+        ]
+      }
+    }
+  },
+  "CAM 03": {
+    "name": "Gajanan Maharaj Temple",
+    "total_vehicles": 121,
+    "vehicle_classes": {
+      "Vehicle": 121
+    },
+    "plates": {
+      "MH12JJ97": {
+        "count": 4,
+        "max_conf": 0.997,
+        "raw_text": "MH12JJ97",
+        "first_time": "18:32:00",
+        "frame": 0,
+        "bbox": [
+          2226,
+          1407,
+          2617,
+          1730
+        ]
+      },
+      "MH22JJ97": {
+        "count": 1,
+        "max_conf": 0.9123,
+        "raw_text": "MH22JJ97",
+        "first_time": "18:32:00",
+        "frame": 29,
+        "bbox": [
+          2291,
+          1327,
+          2705,
+          1645
+        ]
+      },
+      "MH12JJJ7": {
+        "count": 1,
+        "max_conf": 0.906,
+        "raw_text": "MH12JJJ7",
+        "first_time": "18:32:01",
+        "frame": 87,
+        "bbox": [
+          2229,
+          1189,
+          2602,
+          1488
+        ]
+      },
+      "MH12JJ917": {
+        "count": 1,
+        "max_conf": 0.8723,
+        "raw_text": "MH12JJ917",
+        "first_time": "18:32:01",
+        "frame": 116,
+        "bbox": [
+          1884,
+          1109,
+          2262,
+          1330
+        ]
+      },
+      "MH12J97": {
+        "count": 2,
+        "max_conf": 0.9827,
+        "raw_text": "MH12J97",
+        "first_time": "18:32:03",
+        "frame": 203,
+        "bbox": [
+          1344,
+          742,
+          1555,
+          886
+        ]
+      }
+    }
+  },
+  "CAM 04": {
+    "name": "Aranyeshwar Circle",
+    "total_vehicles": 1183,
+    "vehicle_classes": {
+      "Vehicle": 1183
+    },
+    "plates": {
+      "MH12JJJH97": {
+        "count": 1,
+        "max_conf": 0.8555,
+        "raw_text": "MH12JJJH97",
+        "first_time": "18:44:00",
+        "frame": 0,
+        "bbox": [
+          1599,
+          1535,
+          1985,
+          1838
+        ]
+      },
+      "MH12JJ97": {
+        "count": 2,
+        "max_conf": 0.9764,
+        "raw_text": "MH12JJ97",
+        "first_time": "18:44:00",
+        "frame": 29,
+        "bbox": [
+          1469,
+          1367,
+          1825,
+          1590
+        ]
+      },
+      "MH12JJ9J7": {
+        "count": 1,
+        "max_conf": 0.9114,
+        "raw_text": "MH12JJ9J7",
+        "first_time": "18:44:00",
+        "frame": 58,
+        "bbox": [
+          1436,
+          1191,
+          1699,
+          1365
+        ]
+      },
+      "MH12EG2692": {
+        "count": 114,
+        "max_conf": 1.0,
+        "raw_text": "MH12EG2692",
+        "first_time": "18:44:01",
+        "frame": 87,
+        "bbox": [
+          91,
+          555,
+          305,
+          637
+        ]
+      },
+      "MH12JJJ97": {
+        "count": 1,
+        "max_conf": 0.8826,
+        "raw_text": "MH12JJJ97",
+        "first_time": "18:44:01",
+        "frame": 116,
+        "bbox": [
+          1320,
+          972,
+          1492,
+          1079
+        ]
+      },
+      "MH12EG2692M": {
+        "count": 2,
+        "max_conf": 0.9462,
+        "raw_text": "MH12EG2692M",
+        "first_time": "18:44:04",
+        "frame": 261,
+        "bbox": [
+          548,
+          770,
+          738,
+          851
+        ]
+      },
+      "MH02A33": {
+        "count": 1,
+        "max_conf": 0.3172,
+        "raw_text": "MH02A33",
+        "first_time": "18:44:05",
+        "frame": 319,
+        "bbox": [
+          3106,
+          1003,
+          3357,
+          1082
+        ]
+      },
+      "MH01": {
+        "count": 1,
+        "max_conf": 0.3422,
+        "raw_text": "MH01",
+        "first_time": "18:44:27",
+        "frame": 1624,
+        "bbox": [
+          3368,
+          773,
+          3689,
+          875
+        ]
+      },
+      "MH12ET095": {
+        "count": 1,
+        "max_conf": 0.9458,
+        "raw_text": "MH12ET095",
+        "first_time": "18:44:27",
+        "frame": 1653,
+        "bbox": [
+          2469,
+          669,
+          2720,
+          747
+        ]
+      },
+      "MH12ET0956": {
+        "count": 2,
+        "max_conf": 0.9999,
+        "raw_text": "MH12ET0956",
+        "first_time": "18:44:28",
+        "frame": 1682,
+        "bbox": [
+          1996,
+          578,
+          2197,
+          640
+        ]
+      },
+      "UNREADLE": {
+        "count": 1,
+        "max_conf": 0.8562,
+        "raw_text": "UNREADLE",
+        "first_time": "18:44:29",
+        "frame": 1769,
+        "bbox": [
+          2567,
+          850,
+          2838,
+          924
+        ]
+      },
+      "MH0C55": {
+        "count": 1,
+        "max_conf": 0.2467,
+        "raw_text": "MH0C55",
+        "first_time": "18:44:30",
+        "frame": 1827,
+        "bbox": [
+          216,
+          294,
+          340,
+          347
+        ]
+      },
+      "MH12CG2692": {
+        "count": 1,
+        "max_conf": 0.9739,
+        "raw_text": "MH12CG2692",
+        "first_time": "18:44:32",
+        "frame": 1914,
+        "bbox": [
+          70,
+          433,
+          284,
+          517
+        ]
+      },
+      "G26EGM2": {
+        "count": 1,
+        "max_conf": 0.6613,
+        "raw_text": "G26EGM2",
+        "first_time": "18:44:35",
+        "frame": 2088,
+        "bbox": [
+          0,
+          547,
+          125,
+          634
+        ]
+      },
+      "MH13HQ897": {
+        "count": 1,
+        "max_conf": 0.926,
+        "raw_text": "MH13HQ897",
+        "first_time": "18:44:42",
+        "frame": 2523,
+        "bbox": [
+          1812,
+          1221,
+          1994,
+          1328
+        ]
+      },
+      "MH12ES262": {
+        "count": 1,
+        "max_conf": 0.8233,
+        "raw_text": "MH12ES262",
+        "first_time": "18:44:44",
+        "frame": 2639,
+        "bbox": [
+          597,
+          500,
+          782,
+          574
+        ]
+      }
+    }
+  },
+  "CAM 05": {
+    "name": "Taware Colony",
+    "total_vehicles": 152,
+    "vehicle_classes": {
+      "Vehicle": 152
+    },
+    "plates": {
+      "MH12JJ97": {
+        "count": 9,
+        "max_conf": 0.9982,
+        "raw_text": "MH12JJ97",
+        "first_time": "18:58:00",
+        "frame": 0,
+        "bbox": [
+          787,
+          789,
+          1006,
+          916
+        ]
+      },
+      "MH12JJJ97": {
+        "count": 6,
+        "max_conf": 0.9557,
+        "raw_text": "MH12JJJ97",
+        "first_time": "18:58:00",
+        "frame": 30,
+        "bbox": [
+          882,
+          783,
+          1101,
+          893
+        ]
+      },
+      "MH12JJ9J7": {
+        "count": 1,
+        "max_conf": 0.9502,
+        "raw_text": "MH12JJ9J7",
+        "first_time": "18:58:01",
+        "frame": 60,
+        "bbox": [
+          830,
+          793,
+          1065,
+          919
+        ]
+      },
+      "MH12J97": {
+        "count": 1,
+        "max_conf": 0.9358,
+        "raw_text": "MH12J97",
+        "first_time": "18:58:02",
+        "frame": 75,
+        "bbox": [
+          803,
+          812,
+          1035,
+          935
+        ]
+      },
+      "MH12J7": {
+        "count": 1,
+        "max_conf": 0.9882,
+        "raw_text": "MH12J7",
+        "first_time": "18:58:02",
+        "frame": 90,
+        "bbox": [
+          838,
+          795,
+          1055,
+          906
+        ]
+      },
+      "HR12JJ7": {
+        "count": 1,
+        "max_conf": 0.8148,
+        "raw_text": "HR12JJ7",
+        "first_time": "18:58:03",
+        "frame": 120,
+        "bbox": [
+          894,
+          709,
+          1032,
+          807
+        ]
+      },
+      "MH12JJJH97": {
+        "count": 1,
+        "max_conf": 0.8787,
+        "raw_text": "MH12JJJH97",
+        "first_time": "18:58:04",
+        "frame": 135,
+        "bbox": [
+          775,
+          633,
+          967,
+          732
+        ]
+      },
+      "MH051": {
+        "count": 1,
+        "max_conf": 0.3049,
+        "raw_text": "MH051",
+        "first_time": "18:58:09",
+        "frame": 285,
+        "bbox": [
+          1470,
+          270,
+          1588,
+          342
+        ]
+      }
+    }
+  }
+}
